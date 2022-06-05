@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Eman6157
+- 👀 I’m interested in Lua Coding / Roblox
+- 🌱 I’m currently learning Lua
